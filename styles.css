@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  color: #0000ff;
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  color: purple;
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+h1 {
+  color: red;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: purple;
+  font-size: 30px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 10px;
+}
+
+.formatting {
+  width: 100%;
+  text-align: center;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.red-text {
+  color: red;
+  font-weight: 900;
+}
